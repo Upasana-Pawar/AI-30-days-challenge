@@ -1,0 +1,12 @@
+## Day 2 – Pandas Basics (Titanic & Movies)
+- Practiced Pandas with two datasets for better understanding.
+- Titanic Dataset:
+  - Average passenger age
+  - Survivors by gender
+  - Survival rate by class
+  - Youngest & oldest passenger
+- Movies Dataset:
+  - Top 5 movies by rating
+  - Average rating by genre
+  - Movies per year
+  - Most common genre
