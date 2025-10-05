@@ -4,7 +4,7 @@
 **Model Used:** Logistic Regression  
 **Dataset:** Pima Indians Diabetes Dataset  
 **Author:** Upasana  
-**Date:** (Replace with today’s date)
+**Date:** 05th OCT 25
 
 ---
 
@@ -67,4 +67,5 @@ It sometimes predicts diabetes when it isn’t present, but overall captures mos
 - **OS:** Windows 11  
 
 ---
+
 
