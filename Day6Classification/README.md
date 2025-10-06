@@ -4,7 +4,7 @@
 **Model Used:** Logistic Regression  
 **Dataset:** Pima Indians Diabetes Dataset  
 **Author:** Upasana  
-**Date:** (Replace with today’s date)
+
 
 ---
 
