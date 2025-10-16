@@ -1,0 +1,18 @@
+Day 17 — Model Evaluation Metrics
+===============================
+Accuracy: 0.8101
+Precision: 0.7778
+Recall: 0.7101
+F1-score: 0.7424
+ROC-AUC: 0.8475
+Average Precision (AP): 0.8037
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.8276    0.8727    0.8496       110
+           1     0.7778    0.7101    0.7424        69
+
+    accuracy                         0.8101       179
+   macro avg     0.8027    0.7914    0.7960       179
+weighted avg     0.8084    0.8101    0.8083       179
