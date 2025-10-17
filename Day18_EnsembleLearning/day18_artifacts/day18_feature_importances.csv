@@ -1,0 +1,61 @@
+model,feature,importance
+GradientBoosting,worst radius,0.5589071175419414
+GradientBoosting,worst concave points,0.13188410681643203
+GradientBoosting,worst perimeter,0.12770733240575255
+GradientBoosting,texture error,0.03713027264864112
+GradientBoosting,worst texture,0.03211017338314995
+GradientBoosting,worst area,0.0318088756899907
+GradientBoosting,mean concave points,0.019703436638220856
+GradientBoosting,worst concavity,0.014462327214407211
+GradientBoosting,mean texture,0.00907542793050919
+GradientBoosting,area error,0.008410284363719735
+GradientBoosting,worst smoothness,0.007617386716682355
+GradientBoosting,radius error,0.0036858791155664
+GradientBoosting,mean area,0.0027753004587759062
+GradientBoosting,fractal dimension error,0.0017212512422104089
+GradientBoosting,compactness error,0.0015611427588788766
+GradientBoosting,mean radius,0.0015561995855610242
+GradientBoosting,mean compactness,0.0015366090272507923
+GradientBoosting,symmetry error,0.0013317376874646576
+GradientBoosting,worst compactness,0.0011301724339521028
+GradientBoosting,concavity error,0.0010202585863946859
+GradientBoosting,smoothness error,0.0009977155906950792
+GradientBoosting,concave points error,0.0009655862114428326
+GradientBoosting,worst symmetry,0.0009176646204025161
+GradientBoosting,mean smoothness,0.000669133299997562
+GradientBoosting,perimeter error,0.0005226804958109269
+GradientBoosting,mean fractal dimension,0.00028133635811227603
+GradientBoosting,mean concavity,0.00021587860563050343
+GradientBoosting,mean symmetry,0.00019305799054289584
+GradientBoosting,mean perimeter,9.261048136936097e-05
+GradientBoosting,worst fractal dimension,9.044100493989964e-06
+RandomForest,worst perimeter,0.14569561496038058
+RandomForest,worst area,0.1368442016538821
+RandomForest,worst concave points,0.10719511452906383
+RandomForest,mean concave points,0.10386921550780859
+RandomForest,worst radius,0.07613230124239065
+RandomForest,mean perimeter,0.06111601994107489
+RandomForest,mean radius,0.05519803961795872
+RandomForest,mean concavity,0.04854882530627736
+RandomForest,mean area,0.04055447959767796
+RandomForest,worst concavity,0.029352833204323397
+RandomForest,area error,0.02472216054601463
+RandomForest,worst texture,0.018132762745194826
+RandomForest,mean compactness,0.01626249694183063
+RandomForest,radius error,0.015654828362775184
+RandomForest,mean texture,0.01547919285912796
+RandomForest,worst smoothness,0.013493711760624947
+RandomForest,worst symmetry,0.01277882211059107
+RandomForest,worst compactness,0.012647776290396472
+RandomForest,perimeter error,0.008651026870991906
+RandomForest,worst fractal dimension,0.0079366486448943
+RandomForest,mean smoothness,0.007161087220572035
+RandomForest,texture error,0.0066118244067934736
+RandomForest,concavity error,0.0062244989085247235
+RandomForest,concave points error,0.00528176651006635
+RandomForest,smoothness error,0.004904789828915155
+RandomForest,mean symmetry,0.00446837000072658
+RandomForest,compactness error,0.004162516000933578
+RandomForest,mean fractal dimension,0.0039514441736325555
+RandomForest,fractal dimension error,0.0035818634394248596
+RandomForest,symmetry error,0.0033857668171304754

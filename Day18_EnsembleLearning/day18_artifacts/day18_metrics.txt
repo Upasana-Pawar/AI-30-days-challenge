@@ -1,0 +1,19 @@
+Day18 - Ensemble Learning Metrics Summary
+================================================
+
+RandomForest:
+  Accuracy : 0.9580
+  ROC AUC  : 0.9950
+
+AdaBoost:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9847
+
+GradientBoosting:
+  Accuracy : 0.9580
+  ROC AUC  : 0.9933
+
+Stacking:
+  Accuracy : 0.9860
+  ROC AUC  : 0.9973
+
