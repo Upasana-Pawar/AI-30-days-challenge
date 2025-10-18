@@ -1,0 +1,91 @@
+model,feature,importance
+CatBoost,worst concave points,11.082332526687736
+CatBoost,worst texture,10.818173581413957
+CatBoost,worst area,8.874302892545078
+CatBoost,worst perimeter,6.775654270327135
+CatBoost,mean texture,6.216951932508125
+CatBoost,worst radius,6.20578844362238
+CatBoost,mean concave points,5.874868837616552
+CatBoost,worst smoothness,4.139411081639789
+CatBoost,area error,3.7066540921522586
+CatBoost,mean concavity,2.41643902926427
+CatBoost,compactness error,2.377500685098521
+CatBoost,mean smoothness,2.343982795431482
+CatBoost,worst compactness,2.3098172687774925
+CatBoost,mean area,2.2734938017642587
+CatBoost,mean compactness,2.2272810883724836
+CatBoost,radius error,2.1811181306808836
+CatBoost,symmetry error,2.1222609560938515
+CatBoost,smoothness error,2.0378622194968004
+CatBoost,texture error,1.9195916181896349
+CatBoost,worst fractal dimension,1.865937302536154
+CatBoost,worst symmetry,1.8482921170073698
+CatBoost,worst concavity,1.7957338117707315
+CatBoost,mean radius,1.7135453953948578
+CatBoost,perimeter error,1.7059451722415655
+CatBoost,mean perimeter,1.1567062210771961
+CatBoost,mean symmetry,1.0157789883232293
+CatBoost,fractal dimension error,0.9706601116176165
+CatBoost,concave points error,0.9253120990420304
+CatBoost,concavity error,0.7460772093870083
+CatBoost,mean fractal dimension,0.35252631991955
+LightGBM,worst concave points,466.0
+LightGBM,worst texture,404.0
+LightGBM,mean texture,315.0
+LightGBM,worst perimeter,314.0
+LightGBM,mean concave points,230.0
+LightGBM,area error,221.0
+LightGBM,worst area,201.0
+LightGBM,worst smoothness,195.0
+LightGBM,worst symmetry,161.0
+LightGBM,mean concavity,158.0
+LightGBM,mean smoothness,157.0
+LightGBM,worst radius,141.0
+LightGBM,texture error,131.0
+LightGBM,mean compactness,126.0
+LightGBM,mean radius,125.0
+LightGBM,compactness error,110.0
+LightGBM,worst concavity,105.0
+LightGBM,worst compactness,94.0
+LightGBM,smoothness error,82.0
+LightGBM,mean perimeter,81.0
+LightGBM,symmetry error,76.0
+LightGBM,fractal dimension error,69.0
+LightGBM,mean symmetry,66.0
+LightGBM,perimeter error,66.0
+LightGBM,radius error,65.0
+LightGBM,mean fractal dimension,63.0
+LightGBM,mean area,50.0
+LightGBM,concave points error,45.0
+LightGBM,worst fractal dimension,45.0
+LightGBM,concavity error,42.0
+XGBoost,worst radius,0.5130892992019653
+XGBoost,worst perimeter,0.15183791518211365
+XGBoost,worst concave points,0.08950794488191605
+XGBoost,concavity error,0.04190189018845558
+XGBoost,texture error,0.036047786474227905
+XGBoost,mean concave points,0.030754009261727333
+XGBoost,worst area,0.019634747877717018
+XGBoost,mean area,0.012851709499955177
+XGBoost,worst concavity,0.012549471110105515
+XGBoost,worst texture,0.012180158868432045
+XGBoost,radius error,0.01172727346420288
+XGBoost,worst smoothness,0.00865852739661932
+XGBoost,mean texture,0.007804851047694683
+XGBoost,area error,0.007606821600347757
+XGBoost,smoothness error,0.00731006171554327
+XGBoost,worst compactness,0.006240170914679766
+XGBoost,compactness error,0.005812462419271469
+XGBoost,mean smoothness,0.005434179212898016
+XGBoost,worst fractal dimension,0.005096137523651123
+XGBoost,mean compactness,0.004325952380895615
+XGBoost,worst symmetry,0.0031592596787959337
+XGBoost,mean concavity,0.0019983940292149782
+XGBoost,mean fractal dimension,0.0016446099616587162
+XGBoost,symmetry error,0.001379188965074718
+XGBoost,fractal dimension error,0.0009024095488712192
+XGBoost,concave points error,0.0003295468050055206
+XGBoost,mean symmetry,0.0002151363150915131
+XGBoost,mean radius,0.0
+XGBoost,mean perimeter,0.0
+XGBoost,perimeter error,0.0

@@ -1,0 +1,19 @@
+Day19 - Advanced Boosting Metrics Summary
+========================================================
+
+HistGB:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9941
+
+XGBoost:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9958
+
+LightGBM:
+  Accuracy : 0.9580
+  ROC AUC  : 0.9912
+
+CatBoost:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9964
+
