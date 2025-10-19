@@ -1,0 +1,31 @@
+Day20 - Hyperparameter Tuning Metrics Summary
+========================================================
+
+HistGB:
+  Default Accuracy : 0.9650
+  Default ROC AUC  : 0.9941
+  Tuned  Accuracy  : 0.9650
+  Tuned  ROC AUC   : 0.9948
+  Tuned Params     : {'max_iter': 150, 'learning_rate': 0.2, 'max_depth': 3, 'min_samples_leaf': 10}
+
+XGBoost:
+  Default Accuracy : 0.9650
+  Default ROC AUC  : 0.9958
+  Tuned  Accuracy  : 0.9720
+  Tuned  ROC AUC   : 0.9945
+  Tuned Params     : {'n_estimators': 150, 'learning_rate': 0.1, 'max_depth': 8, 'subsample': 0.6, 'colsample_bytree': 1.0}
+
+LightGBM:
+  Default Accuracy : 0.9650
+  Default ROC AUC  : 0.9912
+  Tuned  Accuracy  : 0.9580
+  Tuned  ROC AUC   : 0.9906
+  Tuned Params     : {'n_estimators': 200, 'learning_rate': 0.1, 'num_leaves': 15, 'subsample': 0.6}
+
+CatBoost:
+  Default Accuracy : 0.9650
+  Default ROC AUC  : 0.9964
+  Tuned  Accuracy  : 0.9650
+  Tuned  ROC AUC   : 0.9975
+  Tuned Params     : {'iterations': 400, 'learning_rate': 0.03, 'depth': 4}
+
