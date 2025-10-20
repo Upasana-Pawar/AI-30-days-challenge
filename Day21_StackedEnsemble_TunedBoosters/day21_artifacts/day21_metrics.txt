@@ -1,0 +1,23 @@
+Day21 - Stacked Ensemble Metrics Summary
+================================================
+
+xgb_tuned:
+  Accuracy : 0.9720
+  ROC AUC  : 0.9945
+
+lgbm_tuned:
+  Accuracy : 0.9580
+  ROC AUC  : 0.9906
+
+cat_tuned:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9975
+
+hgb_default:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9941
+
+stacking_tuned:
+  Accuracy : 0.9650
+  ROC AUC  : 0.9960
+
