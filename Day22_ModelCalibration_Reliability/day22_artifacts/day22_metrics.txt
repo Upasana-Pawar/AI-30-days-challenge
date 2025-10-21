@@ -1,0 +1,21 @@
+Day22 - Model Calibration Metrics Summary
+========================================================
+
+GradientBoosting_uncal (uncalibrated):
+  Accuracy : 0.9580
+  ROC AUC  : 0.9929
+  Brier    : 0.0372
+  ECE      : 0.0372
+
+RandomForest_uncal (uncalibrated):
+  Accuracy : 0.9580
+  ROC AUC  : 0.9950
+  Brier    : 0.0287
+  ECE      : 0.0574
+
+Stacking_uncal (uncalibrated):
+  Accuracy : 0.9510
+  ROC AUC  : 0.9941
+  Brier    : 0.0357
+  ECE      : 0.0755
+
