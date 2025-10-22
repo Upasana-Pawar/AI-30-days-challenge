@@ -1,0 +1,24 @@
+Day23 - Uncertainty & Bayesian Methods Metrics Summary
+================================================================
+
+Classification (Ensemble)
+  Ensemble members : 10
+  Test accuracy (mean proba threshold 0.5) : 0.9580
+  Test ROC AUC (ensemble mean)            : 0.9941
+  Test Brier score (ensemble mean)        : 0.0301
+
+Uncertainty analysis (std of member probabilities):
+  Mean std (correct predictions)  : 0.00955
+  Mean std (incorrect predictions): 0.03020
+
+Note: higher std -> higher epistemic uncertainty (members disagree more).
+
+Saved classification ensemble plot: C:\Users\upasa\Desktop\AI 30 day challenge\Day23_Uncertainty_BayesianMethods\day23_artifacts\day23_classification_ensemble_uncertainty.png
+
+Regression (BayesianRidge on diabetes - single feature 'bmi')
+  Test MSE (BayesianRidge mean) : 3773.1248
+  Mean predictive std            : 62.8943
+
+Saved regression plot: C:\Users\upasa\Desktop\AI 30 day challenge\Day23_Uncertainty_BayesianMethods\day23_artifacts\day23_regression_bayesianridge.png
+
+MC Dropout demo run and plot saved: C:\Users\upasa\Desktop\AI 30 day challenge\Day23_Uncertainty_BayesianMethods\day23_artifacts\day23_mc_dropout.png
