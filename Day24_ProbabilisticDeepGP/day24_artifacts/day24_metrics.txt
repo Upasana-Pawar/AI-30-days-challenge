@@ -1,0 +1,18 @@
+Day24 - Probabilistic Deep Learning & GPs Metrics
+============================================================
+
+GPR (diabetes - feature: bmi)
+  Test MSE: 4462.8209
+  Mean predictive std: 18.2733
+
+GPC (make_moons toy):
+  Test accuracy: 0.9600
+  Test ROC AUC: 0.9886
+
+MC Dropout NN (Keras fallback):
+  val accuracy: 0.9371
+  val ROC AUC  : 0.9822
+
+Saved MC Dropout plot: C:\Users\upasa\Desktop\AI 30 day challenge\Day24_ProbabilisticDeepGP\day24_artifacts\day24_bnn_predictions.png
+
+Total script runtime (s): 4.7
