@@ -1,0 +1,1 @@
+Failed to extract rules: This RandomForestClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
