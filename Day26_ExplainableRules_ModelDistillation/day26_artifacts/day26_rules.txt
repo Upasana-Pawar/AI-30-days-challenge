@@ -1,0 +1,9 @@
+Day26 — Surrogate Decision Tree Rules
+========================================================================
+
+Chosen surrogate max_depth = 1
+
+|--- worst radius <= 0.12
+|   |--- class: 1
+|--- worst radius >  0.12
+|   |--- class: 0

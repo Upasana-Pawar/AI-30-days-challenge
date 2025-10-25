@@ -1,0 +1,21 @@
+Day26 - Explainable Decision Rules & Model Distillation
+========================================================================
+
+Black-box RandomForest accuracy (test): 0.9580
+
+Surrogate results (by depth):
+  depth=1 -> fidelity=0.9650, surrogate_acc=0.9231
+  depth=2 -> fidelity=0.9231, surrogate_acc=0.9091
+  depth=3 -> fidelity=0.9580, surrogate_acc=0.9441
+  depth=4 -> fidelity=0.9580, surrogate_acc=0.9441
+  depth=5 -> fidelity=0.9510, surrogate_acc=0.9371
+  depth=6 -> fidelity=0.9510, surrogate_acc=0.9371
+  depth=7 -> fidelity=0.9371, surrogate_acc=0.9231
+  depth=8 -> fidelity=0.9371, surrogate_acc=0.9231
+
+Chosen surrogate depth: 1
+Chosen surrogate fidelity: 0.9650
+Chosen surrogate accuracy (vs true): 0.9231
+
+Saved surrogate tree rules to: C:\Users\upasa\Desktop\AI 30 day challenge\Day26_ExplainableRules_ModelDistillation\day26_artifacts\day26_rules.txt
+Saved models to: C:\Users\upasa\Desktop\AI 30 day challenge\Day26_ExplainableRules_ModelDistillation\day26_artifacts\day26_models
