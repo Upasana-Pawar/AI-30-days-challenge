@@ -1,0 +1,14 @@
+Day27 - Rule-based Model Compression & Global Surrogate Evaluation
+================================================================================
+
+Number of raw rules extracted: 11
+Number of pruned rules: 0
+
+Rule-set overall coverage (test): 0.0000
+Rule-set accuracy on covered (vs true): nan
+Rule-set fidelity on covered (vs black-box): nan
+
+Rules CSV: C:\Users\upasa\Desktop\AI 30 day challenge\Day27_RuleCompression_GlobalSurrogate\day27_artifacts\day27_rules.csv
+Pruned rules TXT: C:\Users\upasa\Desktop\AI 30 day challenge\Day27_RuleCompression_GlobalSurrogate\day27_artifacts\day27_rules.txt
+Rule metrics plot: C:\Users\upasa\Desktop\AI 30 day challenge\Day27_RuleCompression_GlobalSurrogate\day27_artifacts\day27_rule_metrics.png
+Slice metrics CSV: C:\Users\upasa\Desktop\AI 30 day challenge\Day27_RuleCompression_GlobalSurrogate\day27_artifacts\day27_fidelity_coverage_by_slice.csv

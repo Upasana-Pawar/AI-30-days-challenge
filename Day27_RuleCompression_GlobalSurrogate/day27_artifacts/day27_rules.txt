@@ -1,0 +1,11 @@
+Day27 — Extracted & Pruned Rules (first-match applies)
+================================================================================
+
+Pruning thresholds: min_coverage=0.02, min_precision=0.7
+
+No rules passed pruning thresholds.
+
+Rule-set metrics:
+  overall coverage: 0.000
+  accuracy on covered (vs true): nan
+  fidelity on covered (vs black-box): nan

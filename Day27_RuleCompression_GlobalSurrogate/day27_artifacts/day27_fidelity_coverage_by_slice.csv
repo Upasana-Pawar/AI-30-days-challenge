@@ -1,0 +1,5 @@
+slice_idx,feat,range_low,range_high,n_samples,coverage,fidelity_on_covered,accuracy_on_covered
+0,worst perimeter,59.16,84.47,36,0.0,,
+1,worst perimeter,84.47,98.27,35,0.0,,
+2,worst perimeter,98.27,128.35,36,0.0,,
+3,worst perimeter,128.35,251.2,36,0.0,,
