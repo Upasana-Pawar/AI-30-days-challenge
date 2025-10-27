@@ -1,0 +1,15 @@
+Day28 - Selective Rule Ensembles & Coverage Maximization
+================================================================================
+
+Number of raw rules available: 11
+Number of rules selected: 0
+
+Per-rule precision threshold (min): 0.8
+Target coverage: 0.85
+Overall coverage achieved: 0.0000
+Accuracy on covered samples (vs true): nan
+Fidelity on covered samples (vs RF): nan
+
+Selected rules CSV: C:\Users\upasa\Desktop\AI 30 day challenge\Day28_SelectiveRuleEnsembles\day28_artifacts\day28_selected_rules.csv
+Selected rules TXT: C:\Users\upasa\Desktop\AI 30 day challenge\Day28_SelectiveRuleEnsembles\day28_artifacts\day28_rules.txt
+Coverage/precision plot: C:\Users\upasa\Desktop\AI 30 day challenge\Day28_SelectiveRuleEnsembles\day28_artifacts\day28_coverage_precision_curve.png

@@ -1,0 +1,12 @@
+Day28 — Selected Rule Ensemble (greedy)
+================================================================================
+
+Precision threshold per rule: 0.8
+Target coverage: 0.85
+
+No rules selected under current thresholds.
+
+Final rule-set metrics:
+  overall_coverage = 0.0000
+  accuracy_on_covered = nan
+  fidelity_on_covered = nan
